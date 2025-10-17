@@ -1,6 +1,7 @@
 # 🚀 Apresentação Interativa com Manim Slides
 
 Este repositório contém o código e os comandos necessários para gerar uma apresentação interativa usando a biblioteca **Manim** e a ferramenta **manim-slides**.
+Acesse em https://lipeama.github.io/sim-measures-slides/
 
 ---
 
