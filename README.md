@@ -1,13 +1,11 @@
 # 🚀 Apresentação Interativa com Manim Slides
 
 Este repositório contém o código e os comandos necessários para gerar uma apresentação interativa usando a biblioteca **Manim** e a ferramenta **manim-slides**.
-Acesse em https://lipeama.github.io/sim-measures-slides/
-
 ---
 
 ## 💻 Passos para a Execução
 
-Siga os passos abaixo para preparar e renderizar a apresentação.
+Acesse a apresentação em https://lipeama.github.io/sim-measures-slides/ para a versão atual. Abaixo estão os passos para alterações:
 
 ### 1. Instalação e Configuração
 
@@ -24,7 +22,7 @@ Você precisará das dependências do projeto para rodar o código.
 
 ### 2. Preparação do Código
 
-O código da sua apresentação, geralmente vindo de um *notebook* ou script Python, deve ser colocado no arquivo principal.
+O código da apresentação está no notebook dentro de `src`. Caso alguma alteração seja feita, copie o código do notebook no arquivo principal.
 
 * Coloque o código da sua apresentação no caminho:
     ```
@@ -33,7 +31,7 @@ O código da sua apresentação, geralmente vindo de um *notebook* ou script Pyt
 
 ### 3. Renderização das Cenas
 
-Após configurar o ambiente e adicionar o código, você pode renderizar as cenas da apresentação.
+Após configurar o ambiente e adicionar o código, renderize as cenas da apresentação.
 
 * Rode o comando de renderização com a lista exata das classes/funções que compõem os slides:
 
